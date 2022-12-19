@@ -4,7 +4,6 @@ public class SumCalcumator {
 
     public int getSumOfNumbers(int from, int to) {
 
-        
         if(from > to)
             throw new ArithmeticException();
 
